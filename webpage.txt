@@ -62,3 +62,6 @@ The posted text is:
 {{ data }}
 </body>
 </html>
+
+///graph to use??
+d3 or high charts
